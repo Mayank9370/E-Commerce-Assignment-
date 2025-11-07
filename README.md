@@ -55,9 +55,12 @@ Put these in the .env
 PORT=5000
 MONGODB_URI="mongodb+srv://mayank..........................y"
 
+To run backend : node index.js
+
 Frontend Setup
 cd frontend
-npm intsall axios 
+npm intsall axios
+To run frontend : npm run dev 
 ```
 
 ## Tailwind  Setup
